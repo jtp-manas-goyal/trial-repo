@@ -1,5 +1,6 @@
-column1,column2
-John,25
-Jane,28
-Alice,30
-Bob,22
+column1,column2,Column1,Column2,Column3
+John,25.0,,,
+Jane,28.0,,,
+Alice,30.0,,,
+Bob,22.0,,,
+,,manas,goyal,1
