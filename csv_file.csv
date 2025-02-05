@@ -1,9 +1,6 @@
-column1,column2,Column1,Column2,Column3
-John,25.0,,,
-Jane,28.0,,,
-Alice,30.0,,,
-Bob,22.0,,,
-,,manas,goyal,1.0
-,,a,b,c
-,,x,y,z
-,,manas,goya,yeyey
+column1,column2,column3
+1,manas,goyal
+2,john,doe
+3,iron,man
+4,spider,man
+
